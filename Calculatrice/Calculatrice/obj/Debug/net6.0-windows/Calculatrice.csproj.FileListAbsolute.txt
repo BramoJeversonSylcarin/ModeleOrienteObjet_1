@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\Calculatrice.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\Calculatrice.Form1.resources
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\Calculatrice.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\Calculatrice.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\Calculatrice.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\bin\Debug\net6.0-windows\Calculatrice.exe
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\bin\Debug\net6.0-windows\Calculatrice.deps.json
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\bin\Debug\net6.0-windows\Calculatrice.runtimeconfig.json
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\bin\Debug\net6.0-windows\Calculatrice.dll
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\bin\Debug\net6.0-windows\Calculatrice.pdb
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\Calculatrice.dll
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\refint\Calculatrice.dll
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\Calculatrice.pdb
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\Calculatrice.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\C charp\Calculatrice\Calculatrice\obj\Debug\net6.0-windows\ref\Calculatrice.dll
